@@ -10,7 +10,7 @@
 | Hasil Percobaan                                                                 | Link Wokwi                                                                                     |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [Hasil Percobaan Semua Peripheral](https://drive.google.com/file/d/14CNGnbIOtqLgwFhovfram74zYlwfN7RR/view?usp=sharing)                                         | [Wokwi Percobaan Semua Peripheral](https://wokwi.com/projects/447287162603758593)                           |
-| [Hasil Percobaan LED](https://drive.google.com/file/d/)                                         | [Wokwi Percobaan LED](https://wokwi.com/projects/447260800505947137)                           |
+| [Hasil Percobaan LED](https://drive.google.com/drive/folders/1KZ1qvQGMUldeBAY5qFgIkaKy3y4ykiEV?usp=sharing)                                         | [Wokwi Percobaan LED](https://wokwi.com/projects/447371843884896257)                           |
 | [Hasil Percobaan OLED](https://drive.google.com/file/)                                       | [Wokwi Percobaan OLED](https://wokwi.com/projects/447203811309229057)                           |
 | [Hasil Percobaan Buzzer](https://drive.google.com/file/)                                   | [Wokwi Percobaan Buzzer](https://wokwi.com/projects/447280511996153857)                           |
 | [Hasil Percobaan Motor Stepper](https://drive.google.com/file/)                   | [Wokwi Percobaan Motor Stepper](https://wokwi.com/projects/)                           |
