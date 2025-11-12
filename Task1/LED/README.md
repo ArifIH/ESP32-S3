@@ -52,6 +52,6 @@ Proyek ini menggunakan **FreeRTOS** untuk membagi tugas ke dua core ESP32:
 - **Core 1**:
   - `ledGroup2Task` (LED 4, 5, 6 berkedip bergantian)
 
-## Output Serial Monitor Contoh
-
+## Vidio Output
+- _Vidio&Documentation_: [GDRIVE](https://drive.google.com/drive/folders/1KZ1qvQGMUldeBAY5qFgIkaKy3y4ykiEV?usp=sharing)
 
