@@ -61,6 +61,11 @@ The system uses:
 
 ---
 
+## Wokwi Simulation
+- _Simulation_: [Wokwi](https://wokwi.com/projects/449098490499264513)
+
+---
+
 ## Pin Definitions
 ```cpp
 #define BTN_MAJU 7         // Button for moving forward  
